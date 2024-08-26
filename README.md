@@ -48,14 +48,11 @@ Figure 3. Framework of **Cell Viewer**
 
 <img src="demo1.gif" alt="demo1 gif" width="1000"/>
 
-<img src="demo2.gif" alt="demo2 gif" width="1000"/>
-
-
-
+<!--<img src="demo2.gif" alt="demo2 gif" width="1000"/>-->
 
 ## Codes
 
-All codes are in the [private repositary](https://www.openai.com). 
+All codes are in [this private repositary](https://github.com/EMC2016/cloudcellviewer_codes.git). 
 Please reach me chenqingxiao1020@gmail.com for codes and more.
 
 
