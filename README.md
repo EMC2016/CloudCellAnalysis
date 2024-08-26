@@ -44,6 +44,15 @@ Figure 3. Framework of **Cell Viewer**
 -- Reorganize data and download
 
 
+## Demo
+
+<img src="demo1.gif" alt="demo1 gif" width="1000"/>
+
+<img src="demo2.gif" alt="demo2 gif" width="1000"/>
+
+
+
+
 ## Codes
 
 All codes are in the [private repositary](https://www.openai.com). 
